@@ -1,8 +1,8 @@
 Projet en Pair-Programming:
-	CASSAND Gwendoline
+	LECERF Aurélie & E.SOSSO Charles
 
 -route_de_la_mairie.rb
 
--trader_de_lobscur.rb (EN COURS)
+-trader_de_lobscur.rb
 
 -route_des_deputes.rb
